@@ -4,6 +4,11 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
+    background-image: url('https://frank-dsign.com/media/2024/09/BG.jpg'), linear-gradient(to bottom, #f0f0f0, #c0c0c0);
+    background-size: cover, 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
     background-color: #DDDDDD; /* Cor de fundo da página */
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
