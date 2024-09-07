@@ -204,3 +204,12 @@ footer {
   from {opacity: .4} 
   to {opacity: 1}
 }
+
+/* ... YOUTUBE ... */
+
+.video-container {
+    position: relative;
+    width: 80%; /* Ajuste a largura conforme necessário */
+    height: 0; /* A altura será definida pela proporção do vídeo */
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+}
