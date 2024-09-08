@@ -1,9 +1,8 @@
 let dados = [
     {
-        titulo: "Monkey D. Luffy",
-        descricao: "Monkey D. Luffy, o protagonista de One Piece, é um jovem pirata alegre e aventureiro, conhecido por seu sorriso contagiante e seu sonho ambicioso de se tornar o Rei dos Piratas",
-        link: "https://onepiece.fandom.com/pt/wiki/Monkey_D._Luffy",
-        tags: "luffy borracha chapeu de palha",
+        titulo: "Rir é o melhor remédio: 10 benefícios do riso para a saúde",
+        descricao: "Você com certeza já ouviu dizer que rir é o melhor remédio. Mas será que é verdade mesmo? De acordo com a ciência, sim! E os benefícios vão muito além de melhorar o humor, ajudar a relaxar ou aumentar a autoestima. Afinal de contas, o riso é inato ao ser humano. Até mesmo os bebês, que ainda não sabem como reagir ao mundo à sua volta, sabem rir. E o ato está, na maioria das vezes, associado a sentimentos positivos.",
+        link: "https://blog.portoseguro.com.br/rir-e-o-melhor-remedio-10-beneficios-do-riso-para-a-saude",
     },
     {
         titulo: "Portgas D. Ace",
