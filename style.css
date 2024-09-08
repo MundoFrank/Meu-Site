@@ -184,10 +184,5 @@ footer {
     width: 80%; /* Ajuste a largura conforme necessário */
     height: 0; /* A altura será definida pela proporção do vídeo */
     padding-bottom: 56.25%; /* 16:9 aspect ratio */
-
-    display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh; /* Ajuste a altura conforme necessário */
     
 }
