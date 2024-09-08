@@ -113,6 +113,15 @@ section button:hover {
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
+/* Logo */
+section img {
+    width: 300px;
+    /* Define a largura da imagem */
+    height: auto;
+    /* Permite que a altura seja ajustada automaticamente para manter a proporção da imagem */
+    padding-top: 100%;
+}
+
 /* Estiliza o rodapé da página */
 footer {
     background-color: ##353131; /* Cor de fundo do rodapé */
