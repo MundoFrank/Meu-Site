@@ -8,7 +8,6 @@ body {
     background-size: cover, 100%;
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed;
     background-color: #DDDDDD; /* Cor de fundo da página */
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
