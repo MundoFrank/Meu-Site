@@ -5,6 +5,7 @@
 body {
     font-family: "Happy Monkey", sans-serif; /* Define a fonte padrão */
     background-image: url('https://frank-dsign.com/media/2024/09/BG5.jpg'), linear-gradient(to bottom, #f0f0f0, #c0c0c0);
+    background-image: url(BG.jpg);
     background-size: cover, 100%;
     background-repeat: no-repeat;
     background-position: center;
