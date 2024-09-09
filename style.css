@@ -119,7 +119,7 @@ section img {
     /* Define a largura da imagem */
     height: auto;
     /* Permite que a altura seja ajustada automaticamente para manter a proporção da imagem */
-    padding-top: 100%;
+    padding-top: 50%;
 }
 
 /* Estiliza o rodapé da página */
